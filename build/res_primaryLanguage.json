@@ -1,37 +1,35 @@
 {
-    "experience": [
+    "basic_info": {
+      "description_header": "Hi",
+      "description": "",
+      "section_name": {
+        "skills": "Skills",
+        "education": "Education"
+      }
+    },
+    "education": [
       {
-        "company": "DefOpenSource",
-        "title": "Front-End Developer",
-        "years": "10.2019 - present",
+        "company": "Universiti Malaysia Pahang Al-Sultan Abdullah (UMPSA)",
+        "title": "Bachelor of Technology (Hons.) in Industrial Electronics Automation",
+        "years": "",
         "mainTech": [
-          "Angular 8/9/10"
+          "2023 - 2027"
         ],
         "technologies": [
-          "REST API",
-          "RxJS",
-          "JavaScript",
-          "Bootstrap",
-          "MDBootstrap",
-          "EF Core",
-          ".NET Core",
-          "SignalR",
-          "Angular Material"
+          "Dean's List 2023/2024",
+          "Dean's List 2024/2025"
         ]
       },
       {
-        "company": "Serros Solutions",
-        "title": "Intern",
-        "years": "01.2018 - 09.2019",
+        "company": "Balik Pulau Vocasional College",
+        "title": "Diploma in Database Management Systems and Web Applications Technology",
+        "years": "",
         "mainTech": [
-          "Angular 7/8"
+          "2019 - 2023"
         ],
         "technologies": [
-          "RxJS",
-          "Django",
-          "PHP",
-          "JavaScript",
-          "DHTMLX Gantt"
+          "Highest Dedication of the Student Representative Council 2022/2023",
+          "Excellent Student Award 2019/2020"
         ]
       }
     ]

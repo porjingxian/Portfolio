@@ -1,42 +1,20 @@
 {
-    "basic_info": {
-      "name": "Por Jing Xian",
-      "titles": [ "Front-end Developer", "Senior Data Engineer", "Dev Team lead", "Mobile App Developer" ],
-      "social": [
-        {
-          "name": "github",
-          "url": "https://github.com",
-          "class": "fab fa-github"
-        },
-        {
-          "name": "instagram",
-          "url": "https://www.instagram.com",
-          "class": "fab fa-instagram"
-        }
-      ],
-      "image": "myProfile.jpg"
-    },
     "skills": {
       "icons": [
         {
-          "name": "HTML 5",
-          "class": "devicon-html5-plain",
+          "name": "PLC programming",
+          "class": "devicon-portainer-original",
           "level": "95"
         },
         {
-          "name": "CSS 3",
-          "class": "devicon-css3-plain",
+          "name": "Arduino",
+          "class": "devicon-arduino-plain",
           "level": "95"
         },
         {
-          "name": "Angular",
-          "class": "devicon-angularjs-plain",
+          "name": "Raspberry Pi",
+          "class": "devicon-raspberrypi-plain",
           "level": "80"
-        },
-        {
-          "name": "TypeScript",
-          "class": "devicon-typescript-plain",
-          "level": "90"
         },
         {
           "name": "JavaScript",
@@ -44,23 +22,78 @@
           "level": "70"
         },
         {
-          "name": "Sass",
-          "class": "devicon-sass-original",
-          "level": "75"
-        },
-        {
-          "name": "Bootstrap",
-          "class": "devicon-bootstrap-plain",
+          "name": "C++",
+          "class": "devicon-cplusplus-plain",
           "level": "85"
         },
         {
-          "name": "C#",
-          "class": "devicon-csharp-plain",
+          "name": "Python",
+          "class": "devicon-python-plain",
           "level": "65"
         },
         {
-          "name": "MySql",
+          "name": "PHP",
+          "class": "devicon-php-plain",
+          "level": "65"
+        },
+        {
+          "name": "React.js",
+          "class": "devicon-react-original",
+          "level": "60"
+        },
+        {
+          "name": "Vue.js",
+          "class": "devicon-vuejs-plain",
+          "level": "60"
+        },
+        {
+          "name": "Node.js",
+          "class": "devicon-nodejs-plain",
+          "level": "60"
+        },
+        {
+          "name": "MySQL",
           "class": "devicon-mysql-plain",
+          "level": "60"
+        },
+        {
+          "name": "InfluxDB",
+          "class": "devicon-influxdb-original",
+          "level": "60"
+        },
+        {
+          "name": "MQTT",
+          "class": "devicon-labview-plain",
+          "level": "75"
+        },
+        {
+          "name": "Linux",
+          "class": "devicon-linux-plain",
+          "level": "60"
+        },
+        {
+          "name": "Laravel",
+          "class": "devicon-laravel-original",
+          "level": "60"
+        },
+        {
+          "name": "Fusion 360",
+          "class": "devicon-fusion-plain",
+          "level": "60"
+        },
+        {
+          "name": "Android Studio",
+          "class": "devicon-androidstudio-plain",
+          "level": "60"
+        },
+        {
+          "name": "Google Cloud",
+          "class": "devicon-googlecloud-plain",
+          "level": "60"
+        },
+        {
+          "name": "Ubuntu",
+          "class": "devicon-ubuntu-plain",
           "level": "60"
         }
       ]
